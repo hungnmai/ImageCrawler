@@ -1,4 +1,4 @@
-from icrawler.builtin import BaiduImageCrawler, BingImageCrawler, GoogleImageCrawler
+from icrawler.builtin import  BingImageCrawler, GoogleImageCrawler
 from icrawler import ImageDownloader
 
 from ReadData import getListNames
